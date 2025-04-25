@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	baseURL            = "https://kilocode.ai"
+	baseURL            = "https://kilo.663332.xyz"
 	chatEndpoint       = baseURL + "/api/claude/v1/messages"
 	openRouterEndpoint = baseURL + "/api/openrouter/chat/completions"
 )
